@@ -1,0 +1,5 @@
+- 👋 Merhaba, ben ilker, 18 yaşındayım, Sivas Cumhuriyet Üniversitesinde Bilgisayar Mühendisliği okuyorum. 1. Sınıfım. 1. sınıf olmama rağmen bir şirkete girip çalışmaya başladım.
+- 👀 Benim ilgi alanlarım mobil uygulama geliştirme, basketboll ve ufak tefek yan dallarda işler (web sitesi vb.) yapmaktır.
+- 🌱 Ben şuanda SwiftUI üzerinde kendimi geliştiriyorum.
+- 📫 Bana instagram üzerinden @_kayailker, mail üzerinden kayailkerugur@gmail.com ulaşabilirsiniz.
+- 😉 Yakında ilk iOS Uygulamam App Storeda çıkacak. 
